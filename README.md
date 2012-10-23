@@ -7,6 +7,6 @@ Hitweb is a directory, under the [GNU General Public License](http://www.gnu.org
 Report Issues/Bugs
 ==================
 
-[Brian FRAVAL](brian@fraval.org)
+[Brian FRAVAL](mailto:brian@fraval.org)
 
 
